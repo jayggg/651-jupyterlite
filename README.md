@@ -1,12 +1,11 @@
 # JupyterLite Demo
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://ngsolve.github.io/jupyterlite_ngsolve/lab?path=poisson.ipynb)
-
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jayggg.github.io/651-jupyterlite/lab?path=navierstokes.ipynb)
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
 ## ✨ Try it in your browser ✨
 
-➡️ **https://ngsolve.github.io/jupyterlite_ngsolve/lab?path=poisson.ipynb**
+➡️ **https://jayggg.github.io/651-jupyterlite/lab?path=navierstokes.ipynb**
 
 
 ## Setting up your own NGSolve - jupyterlite demos:
