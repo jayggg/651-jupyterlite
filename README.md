@@ -9,5 +9,5 @@ perspective.
 Start by running any of the notebooks in your browser rightaway by
 clicking on this link:
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jayggg.github.io/651-jupyterlite/lab?path=01_Lagrange.ipynb)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jayggg.github.io/651-jupyterlite/lab?path=0_INDEX.ipynb)
 
