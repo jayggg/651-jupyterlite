@@ -49,3 +49,6 @@ bqplot
 webgui_jupyter_widgets
 jupyterlab-open-url-parameter
 
+# late additions
+prettytable
+sympy
